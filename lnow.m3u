@@ -1,0 +1,358 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", POPSTARS¡ TV
+https://linear-10.frequency.stream/dist/vix/10/hls/master/playlist.m3u8   
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW
+https://linear-11.frequency.stream/dist/vix/11/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", Best of the Best
+https://linear-12.frequency.stream/dist/vix/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", CHRONICLE
+https://linear-33.frequency.stream/dist/vix/33/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", Revry LGBTQ TV
+https://linear-43.frequency.stream/dist/vix/43/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", Revry news
+https://linear-44.frequency.stream/dist/vix/44/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", Best of the Best
+https://linear-49.frequency.stream/dist/vix/49/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW
+https://linear-64.frequency.stream/dist/vix/64/hls/master/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", REVRY HER
+https://linear-73.frequency.stream/dist/vix/73/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", PATTRN
+https://linear-76.frequency.stream/dist/vix/76/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", SCRIPPS NEWS
+https://linear-78.frequency.stream/dist/vix/78/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WIRED 2 FISH
+https://linear-80.frequency.stream/dist/vix/80/hls/master/playlist.m3u8  
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", Q 4K
+https://linear-81.frequency.stream/dist/vix/81/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", MOVIES
+https://linear-82.frequency.stream/dist/vix/82/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", GRIT XTRA
+https://linear-83.frequency.stream/dist/vix/83/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", COURT TV
+https://linear-84.frequency.stream/dist/vix/84/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", COMEDY
+https://linear-89.frequency.stream/dist/vix/89/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", JUSTICE
+https://linear-90.frequency.stream/dist/vix/90/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", VERY LOCAL
+https://linear-92.frequency.stream/dist/vix/92/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", VERY LOCAL
+https://linear-93.frequency.stream/dist/vix/93/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", KETV 7
+https://linear-94.frequency.stream/dist/vix/94/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", VERY LOCAL
+https://linear-95.frequency.stream/dist/vix/95/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", KMBC 9 ABC
+https://linear-96.frequency.stream/dist/vix/96/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", KOAT 7 ABC
+https://linear-97.frequency.stream/dist/vix/97/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", KOCO 5 ABC
+https://linear-98.frequency.stream/dist/vix/98/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", VERY LOCAL
+https://linear-99.frequency.stream/dist/vix/99/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WCVB 5 ABC
+https://linear-102.frequency.stream/dist/vix/102/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WESH 2
+https://linear-103.frequency.stream/dist/vix/103/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WBAL 11
+https://linear-105.frequency.stream/dist/vix/105/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WISN 12 ABC
+https://linear-106.frequency.stream/dist/vix/106/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WLWT 5 NBC
+https://linear-107.frequency.stream/dist/vix/107/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WDSU 8 NBC
+https://linear-108.frequency.stream/dist/vix/108/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WLKY CBS
+https://linear-109.frequency.stream/dist/vix/109/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", VERY LOCAL
+https://linear-110.frequency.stream/dist/vix/110/hls/master/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WJCL 22 ABC
+https://linear-112.frequency.stream/dist/vix/112/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WPBF 25 ABC
+https://linear-114.frequency.stream/dist/vix/114/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", NBC 5
+https://linear-115.frequency.stream/dist/vix/115/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", VERY LOCAL
+https://linear-116.frequency.stream/dist/vix/116/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", VERY LOCAL
+https://linear-117.frequency.stream/dist/vix/117/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", FAT GUYS WOODS
+https://linear-119.frequency.stream/dist/vix/119/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", HIGHWAY TRUE HELL CHANNEL
+https://linear-120.frequency.stream/dist/vix/120/hls/master/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", ALWAYS FUNNY
+https://linear-121.frequency.stream/dist/vix/121/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", ALWAYS CHRISTMAS
+https://linear-122.frequency.stream/dist/vix/122/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", VERY LOCAL
+https://linear-124.frequency.stream/dist/vix/124/hls/master/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", ZEN
+https://linear-125.frequency.stream/dist/vix/125/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WEATHER GONE VIRAL
+https://linear-128.frequency.stream/dist/vix/128/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW ADRENALINE
+https://linear-133.frequency.stream/dist/vix/133/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW THAT´S FUNNY
+https://linear-135.frequency.stream/dist/vix/135/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW MUSIC
+https://linear-136.frequency.stream/dist/vix/136/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW FAMILY FLIX
+https://linear-137.frequency.stream/dist/vix/137/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW
+https://linear-138.frequency.stream/dist/vix/138/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW DRAMA
+https://linear-141.frequency.stream/dist/vix/141/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LoupeArt
+https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW ROMANTIQUE
+https://linear-152.frequency.stream/dist/vix/152/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", SN TV
+https://linear-165.frequency.stream/dist/vix/165/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", BOOMERS TV
+https://linear-173.frequency.stream/dist/vix/173/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", THE PET COLLECTIVE
+https://linear-174.frequency.stream/dist/vix/174/hls/master/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WHEATER SPY
+https://linear-176.frequency.stream/dist/vix/176/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", TH
+https://linear-188.frequency.stream/dist/vix/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", REELZ FAMOUS & INFAMOUS
+https://linear-190.frequency.stream/dist/vix/190/hls/master/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", PEOPLE ARE AWESOME
+https://linear-197.frequency.stream/dist/vix/197/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", FAILARMY
+https://linear-198.frequency.stream/dist/vix/198/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WEATHER SPY
+https://linear-199.frequency.stream/dist/vix/199/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", VERY LOCAL
+https://linear-200.frequency.stream/dist/vix/200/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", PURSUIT UP
+https://linear-205.frequency.stream/dist/vix/205/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", FUNNY YOU SHOULD ASK
+https://linear-207.frequency.stream/dist/vix/207/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", COMICS UNLEASHED
+https://linear-208.frequency.stream/dist/vix/208/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", AMERICA COURT
+https://linear-219.frequency.stream/dist/vix/219/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", JUSTICE FOR ALL
+https://linear-220.frequency.stream/dist/vix/220/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", MOVIES
+https://linear-213.frequency.stream/dist/vix/213/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", JUSTICE WITH JUDGE MABLEAN
+https://linear-221.frequency.stream/dist/vix/221/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", SUPREME JUSTICE
+https://linear-222.frequency.stream/dist/vix/222/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", THE VEREDICT WITH JUDGE MATCHETT
+https://linear-223.frequency.stream/dist/vix/223/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW
+https://linear-225.frequency.stream/dist/vix/225/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW
+https://linear-227.frequency.stream/dist/vix/227/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", CL SPORTS
+https://linear-235.frequency.stream/dist/vix/235/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", MOVIES OF THE WEEK
+https://linear-236.frequency.stream/dist/vix/236/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", COLD SQUAD 
+https://linear-240.frequency.stream/dist/vix/240/hls/master/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", TH
+https://linear-243.frequency.stream/dist/vix/243/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW
+https://linear-244.frequency.stream/dist/vix/244/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", JADE FEVER
+https://linear-246.frequency.stream/dist/vix/246/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", DESTINATIONS
+https://linear-249.frequency.stream/dist/vix/249/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", JOURNY
+https://linear-252.frequency.stream/dist/vix/252/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", SWERVE SPORTS
+https://linear-253.frequency.stream/dist/vix/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", COFFEEVOUCE
+https://linear-272.frequency.stream/dist/vix/272/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LET´S DINE
+https://linear-274.frequency.stream/dist/vix/274/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", KIN
+https://linear-278.frequency.stream/dist/vix/278/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", WE THE PEOPLE
+https://linear-279.frequency.stream/dist/vix/279/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW 
+https://linear-280.frequency.stream/dist/vix/280/hls/master/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", OVERTIME
+https://linear-281.frequency.stream/dist/vix/281/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW
+https://linear-282.frequency.stream/dist/vix/282/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW
+https://linear-283.frequency.stream/dist/vix/283/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", SPORTS
+https://linear-285.frequency.stream/dist/vix/285/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", CRIME STOPPERS
+https://linear-290.frequency.stream/dist/vix/290/hls/master/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", JOURNY
+https://linear-291.frequency.stream/dist/vix/291/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", OVATION
+https://linear-293.frequency.stream/dist/vix/293/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", JOURNY
+https://linear-298.frequency.stream/dist/vix/298/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", POKER GO
+https://linear-426.frequency.stream/dist/vix/426/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW 
+https://linear-430.frequency.stream/dist/vix/430/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", ION
+https://linear-432.frequency.stream/dist/vix/432/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", ION PLUS
+https://linear-433.frequency.stream/dist/vix/433/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", BOUNCE XL
+https://linear-434.frequency.stream/dist/vix/434/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", BLOOMBERG
+https://linear-435.frequency.stream/dist/vix/435/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", ION MISTERY
+https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", CLASSIC MOVIES
+https://linear-454.frequency.stream/dist/vix/454/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", 21TH CENTURY CINEMA
+https://linear-455.frequency.stream/dist/vix/455/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", 80 & 90 REWIND
+https://linear-456.frequency.stream/dist/vix/456/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", AT HOME WITH FAMILY HANDYMAN
+https://linear-458.frequency.stream/dist/vix/458/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", JAMIE KENNEDY CHANNEL
+https://linear-459.frequency.stream/dist/vix/459/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", LOCAL NOW
+https://linear-461.frequency.stream/dist/vix/461/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", BOUNCE XL
+https://linear-462.frequency.stream/dist/vix/462/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", ION PLUS
+https://linear-463.frequency.stream/dist/vix/463/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", ION
+https://linear-464.frequency.stream/dist/vix/464/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", COURTV
+https://linear-465.frequency.stream/dist/vix/465/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", ION MISTERY
+https://linear-466.frequency.stream/dist/vix/466/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", GRIT XTRA
+https://linear-467.frequency.stream/dist/vix/467/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", THE BLUE CREW
+https://linear-477.frequency.stream/dist/vix/477/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w=w240-h480" group-title="LOCAL NOW", AYS SPORTS
+https://linear-493.frequency.stream/dist/vix/493/hls/master/playlist.m3u8
+
+
+

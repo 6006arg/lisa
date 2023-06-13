@@ -27,6 +27,10 @@ https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750" group-title="ViX",Noticias Univision 24/7
 https://linear-254.frequency.stream/dist/vix/254/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750" group-title="ViX",Noticias Univision 24/7 (OPCION 2)
+https://dcs3-live.mp.lura.live/server/podserve/0MqnqghkvXVNIEm0/rendition.m3u8?track=video-5&ts=1686689993&psi=a8fe4f1af481246b7e2b2570f6e74f3c&encp=y80ow9q-F6VG1291bF6B6Q:1H2qB6ycpjbl0FoZKLy8GGg9RlUQEr5OXQoEhFCfnmh6pNUIpgdOzSPL47YIfcjwC8o2gXg3jESB02fR9ue4XPrTZzzScje9ib7PejI_iaZB3Asn-k-MLkar3qm5rV04ekcGQ1z16tRn8-vOKRevyC0xVSliuiqCunUnQ1W0oKnpOzAuRAlVI2psel40E3k1NqNJg9sP50h3qq1R0F31PKvW0Br1OzQImvpVWnSJHVyCPAo3lwANGup_iLzDJyakG8xiBSw1-KPKsaSd8C9-70Z1R92KZ_JAhxRn_aPXndYj80lwVkr4QJ18eExUQf2MM6Hvmi1RZ2XMbOsPRQqytGYcYQA_Dl_mJ8vTnWMMKJhSvsGuX_z9yHeg-6EKKLT-31w7t-lQNytzSuui5IC_PkAqqWLr4Z00wR2beDc5M1iZbUbD4vk4I9xEtbmXN7RJ_SiSIrCy0FaJsj-FTE9FzkgRMdNdLMldw36wqJ2UMoiQIpUUbrREWMgglh30RoYomFDltv7J3JM_dP7RcHK9HmtLeSt8sMbt58RCerGTvKAB2gm1en4OuC4-qY3TnyhfhL6UFnh7lhhdlw0drMO3NYj1tOEwCheB9PhT54j_uT24iK0i6MvCB8oNrfTlMu6zkzwjap9BtYbZn4NeVVAlcpaEjekjqUyPXboziac1N4x3MYoKFxVR5WrfZ0va2BoDYkNDNmyczK_Wg0q3ZsbmxY3KQCvfxa5N4zNyP5-PPI73HfAoQRO_oWH4_H-4_p7HRd83vmKkAqGTNbBCR46UzKJ90_iWSlZvoIAckF4GLgTjncwKDu5uX62YdFEmeivegC-IiT2rQrnVvQJk6SOXS5tnW7Le-_gHCdWX4NZqQeeD2Mc7fuPVu3OeGRk4as3LP1UcbaHBNrBaAcG8y1CLKT26eJnk78QxiwZx4hKXMiyp1IPGfdXx6BymsapT7fXJo8r8HBXeQT60UyNmJicz49dTAp-1Wnxz6dJwMvpvKu6HeQho7EObzuuvTy9HkCjA&sid=3d207946-78b2-4a6f-848f-3d2bb0e1db50:SCL
+
+
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83716771641f4fc47bd86/471578cf6a4cd5fef1471695cd092009?tr=q-80&w=750" group-title="ViX",Euronews
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 

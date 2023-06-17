@@ -141,8 +141,8 @@ https://linear-339.frequency.stream/dist/vix/339/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6205718ffe7e9549a39d4e5e/1715238f49a3915a2653c015792e692e?tr=q-80&w=750" group-title="ViX",40 Y 20
 https://linear-340.frequency.stream/340/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750" group-title="ViX",Como dice el dicho
-https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750" group-title="ViX",Como dice el dicho *
+https://dcs3-live-uw1-2.mp.lura.live/server/play/AJzMzWfNL23JIzJA/manifest.mpd?anvsid=m176955210-n4ed291bad523bfb3d8c388d5b6a05f94
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62092fc84375522eedbdd675/41cd4ccd9c9025dbd8e074b1e638957a?tr=q-80&w=750" group-title="ViX",Teresa
 https://linear-342.frequency.stream/342/hls/master/playlist.m3u8
@@ -240,11 +240,7 @@ https://linear-484.frequency.stream/dist/vix/484/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
 https://linear-487.frequency.stream/dist/vix/487/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", FUTBOL ESPAÑA 
-https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", FUTBOL ESPAÑA 2
-https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
@@ -261,11 +257,7 @@ https://linear-496.frequency.stream/dist/vix/496/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", SN TV 2
 https://linear-495.frequency.stream/dist/vix/495/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", FUTBOL ESPAÑA 3
-https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", FUTBOL ESPAÑA 4
-https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920" group-title="ViX",Las Estrellas
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
